@@ -1,0 +1,413 @@
+1.MOJO LOGGER PRIVATE CRACKED
+link : https://www.dropbox.com/s/i75ftp2w1lfasi1/Mojo%20Logger%20-%20Cracked.rar
+
+2.Wegilant's BlackHound 
+link : http://cloud.wegilant.com/blackhound/free-trial/?utm_source=facebook&utm_medium=social&utm_campaign=wegilantfbpage
+
+3.IP-Digger v 3.0 The WeB Xploit3r Released by Team FreaK Coderz
+
+IP- Digger is free pentesting and exploiting tool coded by two young indian Programmers and Hackers
+Commonly known as Manoj Nath ( Silent Hacker ) and Gurender Singh ( Un_noN ) .
+After the successful release of their previous two version so called
+<^> IP-Digger v1.0 :- The Initial Beginning
+Download Link :-
+http://zyan.me/OPsBZ
+<^> IP-Digger v2.0 :- The Disaster
+Now The Freak Coderz team has released the Ip-Digger v3.0 The WeB Xploit3r whic includes all new features
+which a hacker required while exploiting a website .
+It is tool used when you are not able to take down or hack the main website but by this tool you can get the server access.
+Itz all user friendly and It is free for all =))
+Features Of IP-DiggEr v3.0 The WeB Xploit3r
+ PHP Server Based
+1 - SQLI Websites        [+] Advance Search Mode Added
+2 - XSS Websites         [+] Advance Search Mode Added
+3 - LFI Websites         [+] Advance Search Mode Added
+4 - RFI Websites         [+] Advance Search Mode Added
+5 - Admin Panels         [+] Advance Search Mode Added
+6 - Upload Vulnerability [+] Advance Search Mode Added
+ ASP Server Based
+7 - ASP SQLI Websites         [+] Advance Search Mode Added
+8 - ASP XSS Websites          [+] Advance Search Mode Added
+9 - ASP Admin Panels          [+] Advance Search Mode Added
+10 - ASP Upload Vulnerability [+] Advance Search Mode Added
+ Website Related Tools
+11 - Wordpress Website Finder
+12 - Joomla Website Finder
+13 - Sub Domain Scanner                    [+] New Feature Added  
+14 - Web Terminator ( DDos Attack )        [+] New Feature Added
+15 - IP Resolver                           [+] New Feature Added
+16 - NS Lookup                             [+] New Feature Added
+17 - Joomla Website Vulnerability Scanner  [+] New Feature Added
+Ip- DiggEr v3.0 The WeB Xploit3r Download Link :-
+http://www.mediafire.com/?nnxeo9cjdcjr733
+
+
+
+4. || Project IP-Digger v2.0 released by Team Freak Coderz ||
+
+IP Digger is a free pentesting tool for finding the Vulnerable websites on the Particular IP Address Given By the Attacker :) . As it is the first tool of the Freak Coderz first =))
+It works perfectly on Backtrack 5 r3 :)) 
+Author :- Manoj Nath ( Silent Hacker ) 
+Project Name :- IP-Digger v2.0 
+ 
+IP-Digger is for the Hackers or we can pentesters or the web admins who want to find the vulnerable websites if they have the Shared hosting. This tool can minimize the risk of getting hacked by finding the Several Vulnerable websites.
+For Hackers it is a great tool for finding the vulnerable website in their Target and exploit it and then Easily defacing :)
+Tool Name :- IP-Digger v2.0 The Disaster
+Coded by :- Manoj Nath aka Silent Hacker ( INDIAN HACKER )
+Features of IP - Digger
+1) ADVANCE SQLI Vulnerable Website Finder
+2) ADVANCEXSS Vulnerable Website Finder
+3) ADVANCELFI Vulnerable Website Finder
+4) ADVANCERFI Vulnerable Website Finder
+5) ADVANCE Admin Panels
+6) ADVANCE Upload Vulnerability sites finder
+7) ASP SERVER BASED SCRIPT ADDED
+ Joomla and Wordpress website finder
+9 BUgs LeeCher section added
+Download Link :-
+http://zyan.me/hFeVZ
+
+
+5.winAUTOPWN v3.0 Released - System vulnerability exploitation 
+Framework
+
+WINAUTOPWN ACTIVE SYSTEMS TRANSGRESSOR GUI [ C4 - WAST ] is a Systems and Network Exploitation Framework built on the famous winAUTOPWN as a backend.  
+C4 - WAST gives users the freedom to select individual exploits and use them.
+BSDAUTOPWN has been compiled, like always for various flavours and has been upgraded to version 1.8 alongwith all applicable exploits
+WINAUTOPWN requires PERL,PHP,PYTHON,RUBY and its dependencies alongwith a few others' too for smooth working of exploits included in it.
+link: http://winautopwn.co.nr/
+
+6.The Mole: Automatic SQL Injection Exploitation Tool 
+
+
+Mole is an automatic SQL Injection exploitation tool. Only by providing a vulnerable URL and a valid string on the site it can detect the injection and exploit it, either by using the union technique or a Boolean query based technique. The Mole uses a command based interface, allowing the user to indicate the action he wants to perform easily. 
+link: http://sourceforge.net/projects/themole/files/latest/download?source=files
+
+7.Sqlninja 0.2.6
+
+
+Features:
+
+ >> Fingerprint of the remote SQL Server (version, user performing the queries, user privileges, xp_cmdshell availability, DB authentication mode)
+>>  Bruteforce of 'sa' password (in 2 flavors: dictionary-based and incremental).
+>> Creation of a custom xp_cmdshell if the original one has been removed
+>> Upload of netcat (or any other executable) using only normal HTTP requests (no FTP/TFTP needed).
+>> TCP/UDP portscan from the target SQL Server to the attacking machine, in order 
+to find a port that is allowed by the firewall of the target network 
+and use it for a reverse shell.
+>> Direct and reverse bindshell, both TCP and UDP
+>> ICMP-tunneled shell, when no TCP/UDP ports are available for a direct/reverse 
+shell but the DB can ping your box.
+>> DNS-tunneled pseudo-shell, when no TCP/UDP ports are available for
+ a direct/reverse shell, but the DB server can resolve external hostnames
+ (check the documentation for details about how this works).
+>> Evasion techniques to confuse a few IDS/IPS/WAF.
+>> Integration with Metasploit3, to obtain a graphical access to the remote DB
+ server through a VNC server injection.
+
+link: http://sqlninja.sourceforge.net/download.html
+
+8.HexorBase - The DataBase Hacker Tool
+
+To Audit Management and Multiple Databases
+
+
+
+HexorBase is a database application designed for management and audit multiple database servers simultaneously from a single location, is able to perform SQL queries and brute force attacks against servers common database ( MySQL, SQLite, Microsoft 
+SQL Server, Oracle, PostgreSQL ).
+This tool is simple to use and very practical, may have to know a little SQL, but the basics.
+
+
+HexorBase runs on Linux and presumably Windows, and requires:
+
+python-qt4 python python-MySQLdb cx_Oracle python-psycopg2 python-python-qscintilla2 pymssql
+ To install it you must download and from the console:
+
+root @ host: ~ # dpkg-i hexorbase_1.0_all.deb
+
+
+Project website and download HexorBase: 
+
+http://code.google.com/p/hexorbase/
+
+
+
+9.Net Tools 5.0 (Net Tools 5.x)
+
+ 
+
+This tools is a hacker friendly. Net Tools is a comprehensive set of host monitoring, network scanning, security, administration tools and much more, all with a highly intuitive user interface. It's an ideal tool for those who work in the network security, administration, training, internet forensics or law enforcement internet crimes fields. Net Tools is mainly written in Microsoft Visual Basic 6, Visual C++, Visual C# and Visual Studio .NET.
+There has a 175 tools list in one software.. Tools Content
+ link :http://net-tools.soft32.com/
+
+10.ARPwner – ARP & DNS Poisoning Attack Tool
+
+ARPwner is a tool to do ARP poisoning and DNS poisoning attacks, with a simple GUI and 
+a plugin system to do filtering of the information gathered, also has a implementation of SSLstrip and is coded in python.
+
+link: https://github.com/ntrippar/ARPwner
+
+11.Intercepter Sniffer
+
+Intercepter is a sniffer tool which offers various capabilities including sniffing for password hashes related to ICQ/IRC/AIM/FTP/IMAP/POP3/SMTP/LDAP/BNC/SOCKS/HTTP/
+WWW/NNTP/CVS/TELNET/MRA/DC++/VNC/MYSQL and ORACLE. It also sniffs ICQ/
+AIM/JABBER/YAHOO/MSN/GADU-GADU/IRC and MRA protocols. It has a built-in arp poisoning module, can change MAC addresses of LAN adapters, and has various other interesting functionality.
+
+link:https://www.securemac.com/macosxettercap.php
+
+12.Havij v1.15 Advanced SQL Injection
+
+Havij is an automated SQL Injection tool that helps penetration testers to find and exploit SQL Injection vulnerabilities on a web page.
+
+ link :http://www.hackmantra.com/2011/06/havij-v115-automated-sql-injection-tool.html
+
+13.Ani-Shell
+
+
+
+Ani-Shell is a simple PHP shell with some unique features like Mass Mailer , A simple Web-Server Fuzzer , DDoser, Back Connect , Bind Shell etc etc ! This shell has immense capabilities and have been written with some coding standards in mind for better editing and customization.
+
+Customisation 
+1. Email Trace back is set to Off as default and emails will not be sent , If you are setting 
+this feature on make sure you change the default email address (lionaneesh@gmail.com)
+ to Your email address , Please Change it before using.
+2. Username and Passwords are set to lionaneesh and lionaneesh respectively , Please change them for better
+security.
+3. As a default Lock Mode is set to on! This should not be change unless you want your shell exposed.
+
+Default Login
+Username : lionaneesh
+Password : lionaneesh
+
+Features 
+    Shell
+    Platform Independent
+    Mass - Mailer
+    Small Web-Server Fuzzer
+    DDoser
+    Design
+    Secure Login
+    Deletion of Files
+    Bind Shell
+    Back Connect
+    Fixed Some Coding errors!
+    Rename Files
+    Encoded Title
+    Traceback (Email Alerts)
+    PHP Evaluate
+    Better Command Execution (even supports older version of PHP)
+    Mass Code Injector (Appender and Overwriter)
+    Lock Mode Customization
+
+Latest Version Addition
+    Mail Bomber (With Less Spam detection feature)
+    PHP Decoder
+    Better Uploader
+    Fixed some Coding errors
+ link :http://sourceforge.net/projects/ani-shell/
+
+14.SQL MAP 0.9                                        
+
+
+
+sqlmap 0.9 has been released and has a considerable amount of changes including an almost entirely re-written SQL Injection detection engine.
+
+Sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a kick-ass detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections. Its a good tools for find Sql Vulnerability.
+
+New Features/Changes-->
+
+Rewritten SQL injection detection engine (Bernardo and Miroslav).
+Support to directly connect to the database without passing via a SQL injection, -d switch (Bernardo and Miroslav).
+Added full support for both time-based blind SQL injection and error-based SQL injection techniques (Bernardo and Miroslav).
+Implemented support for SQLite 2 and 3 (Bernardo and Miroslav).
+Implemented support for Firebird (Bernardo and Miroslav).
+Implemented support for Microsoft Access, Sybase and SAP MaxDB (Miroslav).
+Added support to tamper injection data with –tamper switch (Bernardo and Miroslav).
+Added automatic recognition of password hashes format and support to crack them with a dictionary-based attack (Miroslav).
+Added support to fetch unicode data (Bernardo and Miroslav).
+Added support to use persistent HTTP(s) connection for speed improvement, –keep-alive switch (Miroslav).
+Implemented several optimization switches to speed up the exploitation of SQL injections (Bernardo and Miroslav).
+Support to parse and test forms on target url, –forms switch (Bernardo and Miroslav).
+Added switches to brute-force tables names and columns names with a dictionary attack, –common-tables and –common-columns.
+
+ link : https://github.com/sqlmapproject/sqlmap/zipball/master
+
+15.DRIL – Domain Reverse IP Lookup Tool:
+
+
+
+DRIL (Domain Reverse IP Lookup) Tool is a Reverse Domain Tool that will really be useful for penetration testers to find out the domain names which are listed in the the target host, DRIL is a GUI, JAVA based application which uses a Bing API key.
+
+DRIL has a simple user friendly interface which will be helpful for penetration tester to do their work fast without a mess, this is only tested on Linux but as it is JAVA it should work on Windows too.
+There are various other tools which carry out similar tasks..
+
+ link : http://drill.apache.org/download/
+
+16.Burp Suite
+Last update: 5th April 2015
+
+Burp Suite has several features that can help the penetration tester or ethical hacker. Two commonly used applications used within this tool include the 'Burp Suite Spider' which can enumerate and map out the various pages and parameters of a web site by examining cookies and initiates connections with these web applications, and the 'Intruder' which performs automated attacks on web applications.
+
+Burp Suite is an excellent web hacking tool that many pentesters use to test the vulnerability of websites and web applications. Burp suite works by using detailed knowledge of the application that has been targeted within the HTTP protocol. The tool works through an algorithm that is configurable and that can generate malicious attacking HTTP requests that a hacker would use. Burp Suite is particularly useful for discovering vulnerabilities such as SQL injections and cross-site scripting.
+
+ link: http://portswigger.net/burp/download.html
+
+17.Metasploit
+Last update: 5th April 2015
+
+The Metasploit Project, or better known as simply '' is a hugely popular pentesting or hacking tool that is used by cybersecurity professionals and ethical hackers. Metasploit is essentially a computer security project that supplies information about known security vulnerabilities and helps to formulate penetration testing and IDS testing.
+
+Metasploit is in fact a sub-project of the Metasploit Framework. This hacker tool and framework is best known for its anti-forensic and evasion tools, some of which are built into the Metasploit Framework.
+
+ link :http://www.metasploit.com/
+
+18.Angry IP Scanner
+Last update: 5th April 2015
+
+Angry IP Scanner, also known as 'ipscan' is a freely available (open-source and cross-platform) hacking network scanner that is both fast and easy to use. The main purpose of this hacking tool is to scan IP addresses and ports to find open doors and ports. Worth noting that Angry IP Scanner also has a bunch of othere uses as well. Common users of this hacking tool includes network administrators and system engineers.
+
+ link : http://angryip.org/download/#windows
+
+19.Kali Linux
+Last update: 5th April 2015
+
+Although not really a 'hacking tool' we receive a lot of traffic on this popular Linux Distro. Kali Linux contains all the tools listed in our hacker tools list within a stable enviornment and was re-launched several years back from the previous BackTrack project. The Linux Distrobution is very well supported and has an excellent community.
+
+ link : https://www.kali.org/downloads/
+
+20.Snort
+Last update: 5th April 2015
+
+Snort is an awesome hacking and network tool that can be configured in one of three modes: it can either be used as a sniffer, packet logger, or within network intrusion detection. In the (more commonly used) sniffer mode, this hackers program will read (sniff) network packets and display them on a GUI. In the packet logger mode, Snort will audit and log packets to the disk. In intrusion detection mode, Snort monitors network traffic and analyzes it against a rule set defined by the user.
+
+ link : https://www.snort.org/downloads
+
+21.Cain & Abel
+Last update: 5th April 2015
+
+Cain &Abel is a password recovery tool that is mostly used for Microsoft Operating Systems. This popular hacking tool allows the user to seek the recovery of various kind of passwords by sniffing the network, cracking encrypted passwords using Dictionary, Brute-Force and Cryptanalysis attacks. Cain, as it is often referred to, can also record VoIP conversations, decode hashed scrambled passwords, recover wireless network keys and more! If you need a solid password cracking platform then look no further, Cain is certainly your friend.
+
+ link :http://cain-abel.en.softonic.com/
+
+22.THC Hydra
+Last update: 5th April 2015
+
+Although often considered as yet another password cracker, THC Hydra is hugely popular and has a very active and experienced development team. Essentially THC Hydra is a fast and stable Network Login Hacking Tool that will use dictionary or brute-force attacks to try various password and login combinations against an log in page. This hacking tool supports a wide set of protocols including Mail (POP3, IMAP, etc.), Databases, LDAP, SMB, VNC, and SSH.
+
+ link :http://sectools.org/tool/hydra/
+
+23.Ettercap
+Last update: 5th April 2015
+
+Ettercap has a huge following and is widely used by cybersecurity professionals. Ettercap works by placing the users network interface into promiscuous mode and by ARP poisoning the target machines, i.e. facilitating a 'Main In The Middle' or MITM attack. Once successfull Ettercap (and the hacker) can deploy various attacks on the victims. A popular feature about Ettercap is its' ability to support various plugins.
+
+ link : http://ettercap.sourceforge.net/downloads.html
+
+24.John The Ripper
+Last update: 5th April 2015
+
+John the Ripper is a popular password cracking pentesting tool that is most commonly used to perform dictionary attacks. John the Ripper takes text string samples (from a text file, referred to as a wordlist, containing popular and complex words found in a dictionary or real passwords cracked before), encrypting it in the same way as the password being cracked (including both the encryption algorithm and key), and comparing the output to the encrypted string. This tool can also be used to perform a variety of alterations to dictionary attacks.
+
+In addition, John also offers a bunch of brute force options using frequency tables to try plaintexts containing more frequently used characters.
+
+ link : http://www.openwall.com/john/
+
+25.Wapiti
+
+Wapiti has a very loyal following. As a pentesting tool (or framework) Wapiti is able to scan and detect hundreds of possible vulnerabilities. Essentially this Multi Purpose Hacker Tools can audit the security of web applications by performing "black-box" scans, i.e. it does not study the source code of the application but will scan the HTML pages of the application seeking scripts and forms where it can inject data.
+
+ link : http://sourceforge.net/projects/wapiti/
+
+26. Aircrack
+
+Aircrack is one of the most popular wireless passwords cracking tools which you can use for 802.11a/b/g WEP and WPA cracking. Aircrack uses the best algorithms to recover wireless passwords by capturing packets. Once enough packets have been gathered, it tries to recover the password. To make the attack faster, it implements a standard FMS attack with some optimizations.
+
+The company behind the tool also offers an online tutorial where you can learn how to install and use this tool to crack wireless passwords. It comes as Linux distribution, Live CD and VMware image options. You can use any of these. It supports most of the wireless adapters and is almost guaranteed to work. If you are using a Linux distribution, the only drawback of the tool is that it requires deeper knowledge of Linux. If you are not comfortable with Linux, you will find it hard to use this tool. In this case, try Live CD or VMWare image. VMWare Image needs less knowledge, but it only works with a limited set of host OS, and only USB devices are supported.
+
+Before you start using this too, confirm that the wireless card can inject packets. Then start WEP cracking. Read the online tutorial on the website to know more about the tool. If you will follow steps properly, you will end up getting success with this tool.
+
+Download: http://www.aircrack-ng.org/
+
+27. AirSnort
+
+AirSnort is another popular tool for decrypting WEP encryption on a wi-fi 802.11b network. It is a free tool and comes with Linux and Windows platforms. This tool is no longer maintained, but it is still available to download from Sourceforge. AirSnort works by passively monitoring transmissions and computing encryption keys once it has enough packets received. This tool is simple to use. If you are interested, you can try this tool to crack WEP passwords.
+
+Download: http://sourceforge.net/projects/airsnort/
+
+28. Cain & Able
+
+Cain & Able is a popular password cracking tool. This tool is developed to intercept network traffic and then discover passwords by bruteforcing the password using cryptanalysis attack methods. It can also recover wireless network keys by analyzing routing protocols. It you are trying to learn wireless security and password cracking, you should once try this tool.
+
+Download: http://www.oxid.it/cain.html
+
+29. Kismet
+
+Kismet is the wi-fi 802.11 a/b/g/n layer2 wireless network sniffer and IDS. It works with any wi-fi card which supports rfmon mode. It passively collects packets to identify networks and detect hidden networks. It is built on client/server modular architecture. It is available for Linux, OSX, Windows and BSD platforms.
+
+Download: http://www.kismetwireless.net/
+
+30. NetStumbler
+
+NetStumbler is a popular Windows tool to find open wireless access points. This tool is free and is available for Windows. A trimmed down version of the tool is also available. It is called MiniStumbler.
+
+Basically NetStumblet is used for wardriving, verifying network configurations, finding locations with a poor network, detecting unauthorized access points, and more.
+
+But the tool also has a big disadvantage. It can be easily detected by most of the wireless intrusion detection systems available. This is because it actively probes a network to collect useful information. Another disadvantage of the tool is that it does not work properly with the latest 64 bit Windows OS. This is because the tool was last updated back in April 2004. It has been around 11 years since the last stable release of the tool.
+
+Download Netstumbler: http://www.stumbler.net/
+
+31. inSSIDer
+
+inSSIDer is a popular Wi-Fi scanner for Microsoft Windows and OS X operating systems. Initially the tool was opensource. Later it became premium and now costs $19.99. It was also awarded as “Best Opensource Software in Networking”. The inSSIDer wi-fi scanner can do various tasks, including finding open wi-fi access points, tracking signal strength, and saving logs with GPS records.
+
+Download inSSIDer: http://www.inssider.com/
+
+32. WireShark
+
+WireShark is the network protocol analyzer. It lets you check what is happening in your network. You can live capture packets and analyze them. It captures packets and lets you check data at the micro-level. It runs on Windows, Linux, OS X, Solaries, FreeBSD and others. WireShark requires good knowledge of network protocols to analyze the data obtained with the tool. If you do not have good knowledge of that, you may not find this tool interesting. So, try only if you are sure about your protocol knowledge.
+
+Download Wireshark: https://www.wireshark.org/
+
+33. CoWPAtty
+
+CoWPAtty is an automated dictionary attack tool for WPA-PSK. It runs on Linux OS. This program has a command line interface and runs on a word-list that contains the password to use in the attack.
+
+Using the tool is really simple, but it is slow. That’s because the hash uses SHA1 with a seed of SSID. It means the same password will have a different SSIM. So, you cannot simply use the rainbow table against all access points. So, the tool uses the password dictionary and generates the hack for each word contained in the dictionary by using the SSID.
+
+The new version of the tool tried to improve the speed by using a pre-computed hash file. This pre-computed file contains around 172000 dictionary file for around 1000 most popular SSIs. But if your SSID is not in those 1000, you are unlucky.
+
+Download CoWPAtty: http://sourceforge.net/projects/cowpatty/
+
+34. Airjack
+
+Airjack is a Wi-Fi 802.11 packet injection tool. This wireless cracking tool is very useful in injecting forged packets and making a network down by denial of service attack. This tool can also be used for a man in the middle attack in the network.
+
+Download AirJack: http://sourceforge.net/projects/airjack/
+
+35. WepAttack
+
+WepAttack is an open source Linux tool for breaking 802.11 WEP keys. This tool performs an active dictionary attack by testing millions of words to find the working key. Only a working WLAN card is required to work with WepAttack.
+
+Download WebAttack: http://wepattack.sourceforge.net/
+
+36. OmniPeek
+
+OmniPeek is another nice packet sniffer and network analyzer tool. This tool is commercial and supports only Windows operating systems. This tool is used to capture and analyze wireless traffic. But it requires you to have good knowledge of protocols to properly understand things. A good thing is that the tool works with most of the network interface cards available in market. This tool is used for network troubleshooting. This tool also supports plugins, and 40 plugins are already available to extend the features of the tool.
+
+Download: http://www.wildpackets.com/products/distributed_network_analysis/omnipeek_network_analyzer
+
+37. CommView for WiFi
+
+CommView for WiFi is another popular wireless monitor and packet analyzer tool. It comes with an easy to understand GUI. It works fine with 802.11 a/b/g/n/ac networks. It captures every packet and displays useful information as a list. You can get useful information like access points, stations, signal strength, network connections and protocol distribution.
+
+Captured packets can be decrypted by user-defined WEP or WPA keys.
+
+This tool is basically for wi-fi network admins, security professionals, and home users who want to monitor their wi-fi traffic and programmers working on software for wireless networks.
+
+Download CommView: http://www.tamos.com/products/commwifi/
+
+38. CloudCracker
+
+CloudCracker is the online password cracking tool for cracking WPA protected wi-fi networks. This tool can also be used to crack different password hashes. Just upload the handshake file, enter the network name and start the tool. This tool has a huge dictionary of around 300 million words to perform attacks.
+
+Try Cloudcracker: https://www.cloudcracker.com/
